@@ -3,8 +3,8 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 
-import "@fontsource-variable/manrope"
-import "@fontsource-variable/space-grotesk"
+import "@fontsource/manrope"
+import "@fontsource/space-grotesk"
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
