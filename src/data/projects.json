@@ -1,0 +1,26 @@
+[
+    {
+        "title":"proj name",
+        "imageSrc": "assets/projects/project.png",
+        "description": "did this",
+        "skills": ["React","python"],
+        "demo": "link.com",
+        "source": "https://github.com"
+    },
+    {
+        "title":"proj name",
+        "imageSrc": "assets/projects/project.png",
+        "description": "did this",
+        "skills": ["React","python"],
+        "demo": "link.com",
+        "source": "https://github.com"
+    },
+    {
+        "title":"proj name",
+        "imageSrc": "assets/projects/project.png",
+        "description": "did this",
+        "skills": ["React","python"],
+        "demo": "link.com",
+        "source": "https://github.com"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "role": "AWS SWE Intern",
+        "organization": "BigCommerce",
+        "startDate": "May, 2024",
+        "endDate": "August, 2024",
+        "experiences": ["Delivered Salesforce, Jira, and Workday integrations using AWS CDK and Python, boosting efficiency by 20%",
+        "Used Agile and Scrum to remove blockers, align on user stories, and deliver 10+ solutions per sprint",
+        "Built a Python script to automate user reviews and export data to Excel, improving productivity by 15%", 
+        "Led Marketo data pipeline to Datalake via AWS AppFlow, S3, and EventBridge, transferring 1,000+ objects","and this"],
+        "imageSrc": "assets/about/bigcommerce.png"
+    },
+    {
+        "role": "Back-End Developer",
+        "organization": "Imagine Software",
+        "startDate": "January, 2024",
+        "endDate": "January, 2025",
+        "experiences": ["Built a secure FastAPI backend with Python to manage user data in Firebase for efficient admin access",
+        "Integrated RESTful API with frontend for full CRUD functionality and dynamic rendering",
+        "Collaborated in a 5-person team to develop features, manage tasks, and resolve bugs using GitHub and Git"],
+        "imageSrc": "assets/about/imagine.png"
+    },
+    {
+        "role": "Undergraduate Learning Assistant",
+        "organization": "Michigan State University",
+        "startDate": "August, 2023",
+        "endDate": "Present",
+        "experiences": ["Supported 100+ students in intro CS labs and office hours, increasing lab completion by 20%",
+"Helped develop lesson plans with faculty, improving recitation engagement",
+"Led weekly review sessions with live demos, raising quiz scores by 15%",
+"Used Slack and Google Drive to streamline grading, cutting turnaround time by 30%",
+"Tracked student issues and shared insights with instructors to improve course delivery"],
+        "imageSrc": "assets/about/MSU.png"
+    }
+]
