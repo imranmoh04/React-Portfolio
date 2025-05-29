@@ -7,7 +7,7 @@
         "experiences": ["Delivered Salesforce, Jira, and Workday integrations using AWS CDK and Python, boosting efficiency by 20%",
         "Used Agile and Scrum to remove blockers, align on user stories, and deliver 10+ solutions per sprint",
         "Built a Python script to automate user reviews and export data to Excel, improving productivity by 15%", 
-        "Led Marketo data pipeline to Datalake via AWS AppFlow, S3, and EventBridge, transferring 1,000+ objects","and this"],
+        "Led Marketo data pipeline to Datalake via AWS AppFlow, S3, and EventBridge, transferring 1,000+ objects"],
         "imageSrc": "assets/about/bigcommerce.png"
     },
     {
@@ -26,10 +26,10 @@
         "startDate": "August, 2023",
         "endDate": "Present",
         "experiences": ["Supported 100+ students in intro CS labs and office hours, increasing lab completion by 20%",
-"Helped develop lesson plans with faculty, improving recitation engagement",
-"Led weekly review sessions with live demos, raising quiz scores by 15%",
-"Used Slack and Google Drive to streamline grading, cutting turnaround time by 30%",
-"Tracked student issues and shared insights with instructors to improve course delivery"],
+            "Helped develop lesson plans with faculty, improving recitation engagement",
+            "Led weekly review sessions with live demos, raising quiz scores by 15%",
+            "Used Slack and Google Drive to streamline grading, cutting turnaround time by 30%",
+            "Tracked student issues and shared insights with instructors to improve course delivery"],
         "imageSrc": "assets/about/MSU.png"
     }
 ]

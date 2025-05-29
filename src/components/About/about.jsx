@@ -1,12 +1,13 @@
 import React from 'react';
 import styles from './about.module.css';
 
+
 export const About = () => {
     return <section className={styles.container} id="about">
         <h2 className={styles.title}>About</h2>
         <div className={styles.content}>
             <img 
-            src='assets/about/aboutImage.png'
+            src='/assets/about/aboutImage.png'
             alt="me with laptop"
             className={styles.aboutImg}
             />
@@ -25,7 +26,7 @@ export const About = () => {
                 </li>
                 <li className={styles.aboutItem}>
                     <img 
-                    src='/assets/about/serverIcon.png'
+                    src="/assets/about/serverIcon.png"
                     alt="Server icon"/>
                     <div className={styles.aboutItemText}>
                         <h3>Backend Developer</h3>
@@ -37,7 +38,7 @@ export const About = () => {
                 </li>
                 <li className={styles.aboutItem}>
                     <img 
-                    src='/assets/about/uiIcon.png'
+                    src="/assets/about/uiIcon.png"
                     alt="UI icon"/>
                     <div className={styles.aboutItemText}>
                         <h3>UI Designer</h3>

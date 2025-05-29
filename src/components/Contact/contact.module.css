@@ -12,6 +12,15 @@
     gap: 10px;
 }
 
+.containerCon {
+    color: var(--color-text);
+    background-color: var(--color-secondary);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+
 .title {
     font-size: 70px;
     font-weight: 700;

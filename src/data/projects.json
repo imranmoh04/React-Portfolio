@@ -1,26 +1,26 @@
 [
     {
-        "title":"proj name",
-        "imageSrc": "assets/projects/project.png",
-        "description": "did this",
-        "skills": ["React","python"],
-        "demo": "link.com",
-        "source": "https://github.com"
+        "title":"Collabarative Scheduling",
+        "imageSrc": "assets/projects/when2.png",
+        "description": "A modern When2Meet clone for collaborative scheduling, featuring real-time updates, encrypted user login, interactive availability grids, heatmaps, and best-time suggestions. Built with a secure full-stack architecture, MySQL persistence, and deployed via Docker on Google Cloud.",
+        "skills": ["HTML","CSS","JavaScript", "Flask", "WebSockets", "MySQL", "Docker", "Jinja"],
+        "demo": "https://final-exam-220835684552.us-central1.run.app/home",
+        "source": "https://github.com/imranmoh04/When2MeetClone"
     },
     {
-        "title":"proj name",
-        "imageSrc": "assets/projects/project.png",
-        "description": "did this",
-        "skills": ["React","python"],
-        "demo": "link.com",
-        "source": "https://github.com"
+        "title":"VaultChat",
+        "imageSrc": "assets/projects/vault.png",
+        "description": "A secure full-stack web app built with Flask, Socket.IO, and SQLite, featuring encrypted login with Scrypt, session-based access control, and a real-time WebSocket group chat with live notifications and role-based styling. The responsive frontend uses HTML, CSS, JavaScript, and jQuery. Developed in a Docker environment, it demonstrates secure, asynchronous web development.",
+        "skills": ["Flask","Python", "SQLite", "Socket.IO", "HTML", "CSS", "JavaScript", "jQuery", "Docker", "Jinja", "AJAX"],
+        "demo": "https://homework-220835684552.us-central1.run.app/home",
+        "source": "https://github.com/imranmoh04/HTML-CSS-Portfolio-Webstie"
     },
     {
-        "title":"proj name",
-        "imageSrc": "assets/projects/project.png",
-        "description": "did this",
-        "skills": ["React","python"],
-        "demo": "link.com",
-        "source": "https://github.com"
+        "title":"BoxedSparty",
+        "imageSrc": "assets/projects/machinedemo.png",
+        "description": "Designed and animated custom machines in C++ using object-oriented design and graphical composition. Created multiple machines integrated into a larger system, culminating in a creative 30-second animated movie. The project highlights design, animation, and storytelling through teamwork.",
+        "skills": ["C++","Object-Oriented Programming", "CMake", "UML"],
+        "demo": "youtube.com",
+        "source": "https://github.com/imranmoh04/CSE-335-Project"
     }
 ]

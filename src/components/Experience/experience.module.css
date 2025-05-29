@@ -54,6 +54,7 @@
     font-size: 25px;
     font-family: var(--font-man);
     font-weight: 500;
+    
 }
 
 .history {
@@ -92,17 +93,19 @@
     font-weight: 300;
 }
 
+
+
 .organizationLogo {
     width: 100px;
     height: 100px;
     margin-right: 25px;
 }
 
-.historyItemDetails el{
+.historyItemDetails ul{
     margin-top: 6px;
     list-style-type: disc;
     list-style-position: inside;
-    font-size: 25px;
+    font-size: 20;
     margin-left: 17px;
 }
 
