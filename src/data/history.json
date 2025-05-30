@@ -15,9 +15,9 @@
         "organization": "Imagine Software",
         "startDate": "January, 2024",
         "endDate": "January, 2025",
-        "experiences": ["Built a secure FastAPI backend with Python to manage user data in Firebase for efficient admin access",
-        "Integrated RESTful API with frontend for full CRUD functionality and dynamic rendering",
-        "Collaborated in a 5-person team to develop features, manage tasks, and resolve bugs using GitHub and Git"],
+        "experiences": ["Built a secure, scalable back-end with Python/FastAPI, adding auth, validation, and error handling for Firebase data.",
+        "Created a full RESTful API with CRUD support, optimizing request handling for dynamic UI updates.",
+        "Worked in Agile sprints with GitHub for version control and code reviews, speeding up delivery and reducing bugs."],
         "imageSrc": "assets/about/imagine.png"
     },
     {
